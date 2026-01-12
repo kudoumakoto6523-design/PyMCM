@@ -1,0 +1,16 @@
+# Python ignore template
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Do NOT upload this)
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Dataset files (Optional: if your csv is huge, ignore it)
+# *.csv

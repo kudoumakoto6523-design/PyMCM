@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e595fe37-e00d-4b3a-a838-a265d587137d" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PyMCM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme,md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/example_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/core/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/core/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/cluster/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/cluster/kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/eval/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/eval/ahp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/eval/entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/eval/fuzzy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/eval/pca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/eval/topsis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/graph/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/graph/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/opt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/opt/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/arima.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/grey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/lstm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/ode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/random_forest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/mod/predict/regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymcm/utils/visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pymcm/mod/predict/arima.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="386QRnATsmEzwLh2qoa7ro7r72n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.demo1.executor": "Run",
+    "Python.demo2.executor": "Run",
+    "Python.demo3.executor": "Run",
+    "Python.demo4.executor": "Run",
+    "Python.demo5.executor": "Run",
+    "Python.demo6.executor": "Run",
+    "Python.demo7.executor": "Run",
+    "Python.demo8.executor": "Run",
+    "Python.example_generator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Developer\PyMCM\pymcm\mod\predict" />
+      <recent name="D:\Developer\PyMCM\examples" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e595fe37-e00d-4b3a-a838-a265d587137d" name="更改" comment="" />
+      <created>1768117535604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768117535604</updated>
+      <workItem from="1768117536493" duration="9110000" />
+      <workItem from="1768181148548" duration="6924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyMCM$demo4.coverage" NAME="demo4 覆盖结果" MODIFIED="1768183302262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo7.coverage" NAME="demo7 覆盖结果" MODIFIED="1768184809443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo1.coverage" NAME="demo1 覆盖结果" MODIFIED="1768188295174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$example_generator.coverage" NAME="example_generator 覆盖结果" MODIFIED="1768125049326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo5.coverage" NAME="demo5 覆盖结果" MODIFIED="1768183699359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo3.coverage" NAME="demo3 覆盖结果" MODIFIED="1768188462160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo2.coverage" NAME="demo2 覆盖结果" MODIFIED="1768188357267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo6.coverage" NAME="demo6 覆盖结果" MODIFIED="1768184203559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/PyMCM$demo8.coverage" NAME="demo8 覆盖结果" MODIFIED="1768185351491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+  </component>
+</project>

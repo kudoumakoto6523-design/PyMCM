@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pymcm"
+version = "0.1.0"
+description = "数学建模高效工具箱"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "scikit-learn",
+    "openpyxl",
+    "statsmodels",
+    "pmdarima",
+    "sympy",
+    "torch",
+    "seaborn",
+    "networkx"
+]
